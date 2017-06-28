@@ -1,0 +1,1 @@
+C:\Users\LDeLe\Desktop\LCDWin10-master\Win10_LCD\Win10_LCD.csproj;arm
